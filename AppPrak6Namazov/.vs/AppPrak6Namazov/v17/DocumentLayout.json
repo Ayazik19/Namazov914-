@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AppPrak6Namazov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF76D8-E5ED-45A4-9967-4641AD56C47F}|AppPrak6Namazov\\AppPrak6Namazov.csproj|c:\\users\\user\\source\\repos\\appprak6namazov\\appprak6namazov\\appprak6namazov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4BF76D8-E5ED-45A4-9967-4641AD56C47F}|AppPrak6Namazov\\AppPrak6Namazov.csproj|solutionrelative:appprak6namazov\\appprak6namazov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF76D8-E5ED-45A4-9967-4641AD56C47F}|AppPrak6Namazov\\AppPrak6Namazov.csproj|c:\\users\\user\\source\\repos\\appprak6namazov\\appprak6namazov\\appprak6namazov.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A4BF76D8-E5ED-45A4-9967-4641AD56C47F}|AppPrak6Namazov\\AppPrak6Namazov.csproj|solutionrelative:appprak6namazov\\appprak6namazov.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF76D8-E5ED-45A4-9967-4641AD56C47F}|AppPrak6Namazov\\AppPrak6Namazov.csproj|c:\\users\\user\\source\\repos\\appprak6namazov\\appprak6namazov\\resources\\fonts\\opensans-regular.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A4BF76D8-E5ED-45A4-9967-4641AD56C47F}|AppPrak6Namazov\\AppPrak6Namazov.csproj|solutionrelative:appprak6namazov\\resources\\fonts\\opensans-regular.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF76D8-E5ED-45A4-9967-4641AD56C47F}|AppPrak6Namazov\\AppPrak6Namazov.csproj|c:\\users\\user\\source\\repos\\appprak6namazov\\appprak6namazov\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4BF76D8-E5ED-45A4-9967-4641AD56C47F}|AppPrak6Namazov\\AppPrak6Namazov.csproj|solutionrelative:appprak6namazov\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF76D8-E5ED-45A4-9967-4641AD56C47F}|AppPrak6Namazov\\AppPrak6Namazov.csproj|c:\\users\\user\\source\\repos\\appprak6namazov\\appprak6namazov\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A4BF76D8-E5ED-45A4-9967-4641AD56C47F}|AppPrak6Namazov\\AppPrak6Namazov.csproj|solutionrelative:appprak6namazov\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF76D8-E5ED-45A4-9967-4641AD56C47F}|AppPrak6Namazov\\AppPrak6Namazov.csproj|c:\\users\\user\\source\\repos\\appprak6namazov\\appprak6namazov\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BF76D8-E5ED-45A4-9967-4641AD56C47F}|AppPrak6Namazov\\AppPrak6Namazov.csproj|solutionrelative:appprak6namazov\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{936b24b7-e640-3186-98a7-24307bb298e0}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppPrak6Namazov",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppPrak6Namazov\\AppPrak6Namazov\\AppPrak6Namazov.csproj",
+              "RelativeDocumentMoniker": "AppPrak6Namazov\\AppPrak6Namazov.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppPrak6Namazov\\AppPrak6Namazov\\AppPrak6Namazov.csproj",
+              "RelativeToolTip": "AppPrak6Namazov\\AppPrak6Namazov.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T09:21:47.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OpenSans-Regular.ttf",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppPrak6Namazov\\AppPrak6Namazov\\Resources\\Fonts\\OpenSans-Regular.ttf",
+              "RelativeDocumentMoniker": "AppPrak6Namazov\\Resources\\Fonts\\OpenSans-Regular.ttf",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppPrak6Namazov\\AppPrak6Namazov\\Resources\\Fonts\\OpenSans-Regular.ttf",
+              "RelativeToolTip": "AppPrak6Namazov\\Resources\\Fonts\\OpenSans-Regular.ttf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG1SURBVDhPxVM/TwIxHP215Y\u002BgCFEwIRg3BiYTRpwUJxcZ1A\u002Bhn4ABEhM\u002BgN/AyYQYNjYGVhIWJ0OMBCIkBok4IAbu4K7217vGu0Cimy957a\u002BvfS/XXksSiQTz\u002BXwE/gBCCHDOzW63a0pBDEilUqlmMpkDKfwCEUBHo5FWLpevSqVSRYq1Wq2u6xrXNKRu9w7inC50QV1wOp3yVqulF4vFM/RTbDjHFmEXKCgNezm2BMYYmKbpzeVyd/l8PicDEGI7OGERa27Xgjin1iCSySSkUilfNpu9pk6jK2SFhrUipRT8fr/XFbBYLEDXF9DuTWA\u002Bn0uKfS8FKIhD5TLAGfLcn8F9bSiDDMNwmVeFuL7AMEzov35A83EM9ea7rTlCzOUQip0SH54\u002BIRRksBtjcFsduMyS4mCdZgQNBgJcLRgMxxANE7g43oTeF4PHl4krQJl/KALw4HDQe9OABdZgJ7oBe/F1OD\u002BKQHtkgLHSaJnxktCZpsl3EN\u002BijcP9EHgYge2IHy5PYnCaDjc84uKgQS63ewtWTQqFwo24GGmVbIqDUpMI/N/4iJCUiJpaNbLT6XTtZf8GgG/Ef6iAvgDaYAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-01-15T09:03:17.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppPrak6Namazov.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppPrak6Namazov\\AppPrak6Namazov\\AppPrak6Namazov.csproj",
+              "RelativeDocumentMoniker": "AppPrak6Namazov\\AppPrak6Namazov.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppPrak6Namazov\\AppPrak6Namazov\\AppPrak6Namazov.csproj",
+              "RelativeToolTip": "AppPrak6Namazov\\AppPrak6Namazov.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T07:38:08.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppPrak6Namazov\\AppPrak6Namazov\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "AppPrak6Namazov\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppPrak6Namazov\\AppPrak6Namazov\\MauiProgram.cs",
+              "RelativeToolTip": "AppPrak6Namazov\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:53:27.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppPrak6Namazov\\AppPrak6Namazov\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppPrak6Namazov\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppPrak6Namazov\\AppPrak6Namazov\\AppShell.xaml",
+              "RelativeToolTip": "AppPrak6Namazov\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T08:53:29.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppPrak6Namazov\\AppPrak6Namazov\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppPrak6Namazov\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppPrak6Namazov\\AppPrak6Namazov\\MainPage.xaml",
+              "RelativeToolTip": "AppPrak6Namazov\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T08:07:25.943Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
